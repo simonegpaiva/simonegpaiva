@@ -1,6 +1,6 @@
 ### Olá, eu sou a Simone Paiva👋
 
-- 🔭 Eu atualmente estou fazendo um estágio em uma multinacional, no Polo de Arquitetura. 
+- 🔭 Eu atualmente estou fazendo um estágio.
 - 🌱 Estou aprendendo Javascript e NodeJs. 
 - 😄 Pronouns: ela/dela
 

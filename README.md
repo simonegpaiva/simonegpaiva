@@ -2,7 +2,7 @@
 
 - 📚 I'm a IT student and i'm currently an intern. 
 - 🌱 I'm learning javascript and NodeJS. 
-- 🆎 I speak Portuguese and Spanish. English?I speak a little, but I can read and white. 
+- 🆎 I speak Portuguese and Spanish. English?I speak a little, but I can read and write. 
 - 😄 Pronouns: she/her
 
 If you have any question, please let me know!
